@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @JRiechert
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning to work with git!
+Hello there:P
 
 <!---
 JRiechert/JRiechert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
