@@ -1,4 +1,4 @@
-Hello there:P
+Hello there :P
 
 <!---
 JRiechert/JRiechert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
